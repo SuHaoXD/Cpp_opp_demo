@@ -1,0 +1,8 @@
+﻿C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppBuild.targets(392,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (demo.vcxproj, opp_demo.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  main.cpp
+c:\users\56360\desktop\opp_demo\demo\biology.h(72): warning C4091: “__declspec(dllimport)”: 没有声明变量时忽略“Human”的左侧
+  biology.cpp
+c:\users\56360\desktop\opp_demo\demo\biology.h(72): warning C4091: “__declspec(dllimport)”: 没有声明变量时忽略“Human”的左侧
+  正在生成代码...
+  demo.vcxproj -> C:\Users\56360\Desktop\opp_demo\x64\Debug\oop_demo.dll
+  demo.vcxproj -> C:\Users\56360\Desktop\opp_demo\x64\Debug\oop_demo.pdb (Partial PDB)
